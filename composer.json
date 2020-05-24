@@ -1,5 +1,5 @@
 {
-  "name": "jiyis/laravel-nsq",
+  "name": "jines/laravel-nsq",
   "description": "Nsq driver for Laravel Queue",
   "license": "MIT",
   "authors": [
